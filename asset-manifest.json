@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kimbocorp-test/static/css/main.071f0ae7.chunk.css",
+    "main.js": "/kimbocorp-test/static/js/main.d06c4e72.chunk.js",
+    "main.js.map": "/kimbocorp-test/static/js/main.d06c4e72.chunk.js.map",
+    "runtime-main.js": "/kimbocorp-test/static/js/runtime-main.a6657f87.js",
+    "runtime-main.js.map": "/kimbocorp-test/static/js/runtime-main.a6657f87.js.map",
+    "static/js/2.9ca00fad.chunk.js": "/kimbocorp-test/static/js/2.9ca00fad.chunk.js",
+    "static/js/2.9ca00fad.chunk.js.map": "/kimbocorp-test/static/js/2.9ca00fad.chunk.js.map",
+    "index.html": "/kimbocorp-test/index.html",
+    "precache-manifest.90d4f5022db5ca002e2db015c8bd4aed.js": "/kimbocorp-test/precache-manifest.90d4f5022db5ca002e2db015c8bd4aed.js",
+    "service-worker.js": "/kimbocorp-test/service-worker.js",
+    "static/css/main.071f0ae7.chunk.css.map": "/kimbocorp-test/static/css/main.071f0ae7.chunk.css.map",
+    "static/js/2.9ca00fad.chunk.js.LICENSE.txt": "/kimbocorp-test/static/js/2.9ca00fad.chunk.js.LICENSE.txt",
+    "static/media/login-indesign.png": "/kimbocorp-test/static/media/login-indesign.2cc2525d.png",
+    "static/media/profile.png": "/kimbocorp-test/static/media/profile.c55819c4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6657f87.js",
+    "static/js/2.9ca00fad.chunk.js",
+    "static/css/main.071f0ae7.chunk.css",
+    "static/js/main.d06c4e72.chunk.js"
+  ]
+}
